@@ -9,6 +9,7 @@
 		<br><br><br><br><br><br><br><br><br><br><br><br><br></div>');
 	}
 	
+
 	if($_SERVER['REQUEST_METHOD']!="POST"){
 		die("This page only accepts POST requests");
 	}
