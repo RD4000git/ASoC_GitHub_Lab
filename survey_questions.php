@@ -7,7 +7,7 @@
 		die('<div style="color:red;font-family:Tahoma;
 		font-size:12px;padding:10px;font-weight:bold">'.$m.'
 		<br><br><br><br><br><br><br><br><br><br><br><br><br></div>');
-	}
+	} 
 	
 
 	if($_SERVER['REQUEST_METHOD']!="POST"){
